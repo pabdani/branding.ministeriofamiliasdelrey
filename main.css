@@ -1,0 +1,17 @@
+body {
+font-family: 'Lato', sans-serif;
+}
+
+.dl_logos:visited {
+color: #2ac7ff;
+}
+
+.dl_logos:link {
+color: #2ac7ff;
+}
+
+.rec_logos {
+width: 200px;
+height: 100px;
+border: solid;
+}
