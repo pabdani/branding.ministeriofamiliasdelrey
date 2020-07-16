@@ -10,6 +10,14 @@ color: #2ac7ff;
 color: #2ac7ff;
 }
 
+.tyc-link:link {
+color: #2ac7ff;
+}
+
+.tyc-link:visited {
+color: #2ac7ff;
+}
+
 .rec_logos {
 width: 200px;
 height: 100px;
